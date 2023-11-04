@@ -1,7 +1,7 @@
 import styles from "./styles.module.css";
 import * as React from "react";
 import Avatar from "@mui/material/Avatar";
-import { deepOrange, deepPurple, grey } from "@mui/material/colors";
+import { deepOrange } from "@mui/material/colors";
 import Badge from "@mui/material/Badge";
 import SignalCellular0BarIcon from "@mui/icons-material/SignalCellular0Bar";
 import SignalCellular1BarIcon from "@mui/icons-material/SignalCellular1Bar";
